@@ -1,0 +1,26 @@
+/* styles.css */
+
+/* type selectors */
+/* this was my initial thought of styling both buttons
+/* button {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+} */
+
+/* class selectors */
+/* this is a method of styling both buttons by grouping their selectors */
+.left-b,
+.right-b{
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+.left-b{
+    background-color: black;
+    color: white;
+}
+
+.right-b{
+    background-color: yellow;
+
+}
