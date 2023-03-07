@@ -1,0 +1,25 @@
+/* styles.css */
+
+/* Class selectors */
+.odd-element{
+    background-color: #ee9f9f;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+
+}
+
+.cool{
+    font-size: 24px;
+
+}
+
+/* ID selectors*/
+#even-blue-t{
+    color: #0000ff;
+    font-size: 36px;
+}
+
+#even-green-bg{
+    background-color: #90ee90;
+    font-size: 24px;
+    font-weight: bold;
+}
